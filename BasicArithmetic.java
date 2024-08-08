@@ -1,4 +1,4 @@
-public class SimpleAddition {
+public class BasicArithmetic {
     public static void main(String[] args) {
         // Define some numbers
         int num1 = 10;
@@ -21,4 +21,3 @@ public class SimpleAddition {
         System.out.println("Remainder: " + remainder);
     }
 }
-
